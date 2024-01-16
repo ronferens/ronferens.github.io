@@ -30,7 +30,7 @@
   title: "Paying Attention to Activation Maps in Camera Pose Regression"
   venue: arXiv, 2021 
   description: "We propose an attention-based approach for pose regression, where the convolutional activation maps are used as sequential inputs."
-  github: /ronferens/transposenet
+  github: ronferens/transposenet
   arxiv: 2103.11477
   image: transposenet.png
   authors:
