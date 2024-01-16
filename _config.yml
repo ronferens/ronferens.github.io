@@ -29,7 +29,6 @@ url: "https://ronferens.github.io/" # the base hostname & protocol for your site
 twitter_username: ronferens
 github_username: ronferens
 google_scholar: LsWZsgIAAAAJ
-google_analytics: -
 
 # Build settings
 theme: minima
