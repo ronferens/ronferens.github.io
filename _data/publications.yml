@@ -2,7 +2,7 @@
   title: "Coarse-to-Fine Multi-Scene Pose Regression with Transformers"
   venue: arXiv, 2023
   description: "We extend our previous MSTransformer approach by introducing a mixed classification-regression architecture that improves the localization accuracy."
-  project_page: "https://github.com/yolish/c2f-ms-transformer"
+  project_page: "https://github.com/ronferens/c2f-ms-transformer"
   arxiv: 2308.11783
   image: c2f.png
   authors:
@@ -16,7 +16,7 @@
   title: "Learning Multi-Scene Absolute Pose Regression with Transformers"
   venue: ICCV, 2021
   description: "We propose to learn multi-scene absolute camera pose regression with Transformers, where encoders are used to aggregate activation maps with self-attention and decoders transform latent features and scenes encoding into candidate pose predictions."
-  project_page: "https://github.com/yolish/multi-scene-pose-transformer"
+  project_page: "https://github.com/ronferens/multi-scene-pose-transformer"
   arxiv: 2103.11468
   image: learning_ms.png
   authors:
@@ -30,7 +30,7 @@
   title: "Paying Attention to Activation Maps in Camera Pose Regression"
   venue: arXiv, 2021 
   description: "We propose an attention-based approach for pose regression, where the convolutional activation maps are used as sequential inputs."
-  project_page: "https://arxiv.org/abs/2103.11477"
+  project_page: "https://github.com/ronferens/transposenet"
   arxiv: 2103.11477
   image: transposenet.png
   authors:
