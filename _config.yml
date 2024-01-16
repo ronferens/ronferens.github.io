@@ -23,8 +23,10 @@ name: Ron Ferens
 position: Director of Architecture and AI at Blink Technologies, Inc. | PhD Candidate 
 email: ronferens@gmail.com
 description: >-
-  "I'm an algorithm engineer specializing in machine-learning and deep-learning applications for computer vision and image processing. My work spans 2D and 3D domains, addressing various needs like hand and body tracking, expression recognition, large-scale visual localization, and eyes and gaze tracking.
-My academic focus revolves around absolute camera pose estimation, where I explore end-to-end learning methods. I'm passionate about leveraging algorithms to solve real-world problems and contribute to the evolving landscape of computer vision."
+  I am an algorithm engineer specializing in machine-learning and deep-learning applications for computer vision and image processing.
+  My work spans 2D and 3D domains, addressing various needs like hand and body tracking, expression recognition, large-scale visual localization, and eyes and gaze tracking.
+  My academic focus revolves around absolute camera pose estimation, where I explore end-to-end learning methods.
+  I am passionate about leveraging algorithms to solve real-world problems and contribute to the evolving landscape of computer vision.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ronferens.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ronferens
