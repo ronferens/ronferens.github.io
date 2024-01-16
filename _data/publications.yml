@@ -1,0 +1,62 @@
+- id: c2f_ms
+  title: "Learning Multi-Scene Absolute Pose Regression with Transformers"
+  venue: 
+  description: "We extend our previous MSTransformer approach by introducing a mixed classification-regression architecture that improves the localization accuracy."
+  project_page: "https://github.com/yolish/c2f-ms-transformer"
+  arxiv: 2308.11783
+  image: c2f.png
+  authors:
+    - yolishavit
+    - ronferens
+    - yosikeller
+  awards:
+    - Publication in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+
+- id: learning_ms
+  title: "Learning Multi-Scene Absolute Pose Regression with Transformers"
+  venue: 
+  description: "We propose to learn multi-scene absolute camera pose regression with Transformers, where encoders are used to aggregate activation maps with self-attention and decoders transform latent features and scenes encoding into candidate pose predictions."
+  project_page: "https://github.com/yolish/multi-scene-pose-transformer"
+  arxiv: 2103.11468
+  image: learning_ms.png
+  authors:
+    - yolishavit
+    - ronferens
+    - yosikeller
+  awards:
+    - Oral presentation at ICCV 2021
+
+- id: payingattention
+  title: "Paying Attention to Activation Maps in Camera Pose Regression"
+  venue: 
+  description: "We propose an attention-based approach for pose regression, where the convolutional activation maps are used as sequential inputs."
+  project_page: "https://www.computer.org/csdl/proceedings-article/icpr/2021/09412225/1tmjC49HiFi"
+  arxiv: 2103.11477
+  image: transposenet.png
+  authors:
+    - yolishavit
+    - ronferens
+    - yosikeller
+
+- id: sceenspecificencoder
+  title: "Do We Really Need Scene-specific Pose Encoders? "
+  venue: International Conference on Pattern Recognition (ICPR), 2020
+  description: "We propose that scene-specific pose encoders are not required for pose regression and that encodings trained for visual similarity can be used instead."
+  project_page: https://arxiv.org/abs/2012.12014"
+  arxiv: 2012.12014
+  image: do_we_really.png
+  authors:
+    - yolishavit
+    - ronferens
+awards:
+    - Oral presentation at ICPR 2020
+
+- id: poseintro
+  title: "Introduction to Camera Pose Estimation with Deep Learning"
+  description: "We review deep learning approaches for camera pose estimation. We describe key methods in the field and identify trends aiming at improving the original deep pose regression solution. We further provide an extensive cross-comparison of existing learning-based pose estimators, together with practical notes on their execution for reproducibility purposes. Finally, we discuss emerging solutions and potential future research directions."
+  project_page: "https://arxiv.org/abs/1907.05272"
+  arxiv: 1907.05272
+  image: intro_to_arp.png
+  authors:
+    - yolishavit
+    - ronferens

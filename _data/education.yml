@@ -1,0 +1,17 @@
+- name: Bar-Ilan University
+  description: >-
+    PhD Candidate, Electrical Engineering, advised by <a href="https://yosikeller.github.io/">Prof. Yosi Keller</a>.
+    Field of research - Deep-visual end-to-end camera pose localization.
+  dates: Fall 2022 - Current
+
+- name: Tel-Aviv University
+  description: >-
+    MSc, Electrical Engineering, advised by <a href="https://cris.tau.ac.il/en/persons/leonid-yaroslavsky">Prof. Leonid Yaroslavsky</a>.
+    Project - 3D content rendering
+  dates: Fall 2007 - Spring 2009
+
+- name: Ben-Gurion University of the Negev
+  description: >-
+    BSc, Electrical Engineering, advised by <a href="https://in.bgu.ac.il/en/epif/Pages/Prof--Stanley-Rotman.aspx">Prof. Stanley Rotman</a>.
+    Project - Point target detection in Hyper-spectral Images
+  dates: Fall 2002 - Spring 2006
