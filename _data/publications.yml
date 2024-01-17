@@ -17,7 +17,7 @@
   title: "Learning Multi-Scene Absolute Pose Regression with Transformers"
   venue: ICCV, 2021
   description: "We propose to learn multi-scene absolute camera pose regression with Transformers, where encoders are used to aggregate activation maps with self-attention and decoders transform latent features and scenes encoding into candidate pose predictions."
-  project_page: "https://github.com/ronferens/ronferens.github.io/blob/main/_site/learning_ms/index.html"
+  project_page: "https://ronferens.github.io/multi-scene-pose-transformer/"
   github: ronferens/multi-scene-pose-transformer
   arxiv: 2103.11468
   image: learning_ms.png
