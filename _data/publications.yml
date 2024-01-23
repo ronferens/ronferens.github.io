@@ -2,7 +2,7 @@
   title: "Coarse-to-Fine Multi-Scene Pose Regression with Transformers"
   venue: TPAMI, 2023
   description: "We extend our previous MSTransformer approach by introducing a mixed classification-regression architecture that improves the localization accuracy."
-  project_page: "https://github.com/ronferens/c2f-ms-transformer"
+  project_page: "https://ronferens.github.io/c2f-ms-transformer/"
   github: ronferens/c2f-ms-transformer
   arxiv: 2308.11783
   image: c2f.png
