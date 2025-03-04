@@ -1,3 +1,17 @@
+- id: HyperPose
+  title: "HyperPose: Hypernetwork-Infused Camera Pose Localization and an Extended Cambridge Landmarks Dataset"
+  venue: CVPR, 2025
+  description: "We advocate for incorporating hypernetworks into single-scene and multiscene camera pose regression models."
+  project_page: "https://ronferens.github.io/hyperpose/"
+  github: ronferens/hyperpose
+  arxiv: 2303.02610
+  image: hyperpose_teaser.png
+  authors:
+    - ronferens
+    - yosikeller
+  awards:
+    - "Accepted to The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025"
+
 - id: c2f_ms
   title: "Coarse-to-Fine Multi-Scene Pose Regression with Transformers"
   venue: TPAMI, 2023
