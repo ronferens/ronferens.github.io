@@ -4,7 +4,7 @@
   description: "We advocate for incorporating hypernetworks into single-scene and multiscene camera pose regression models."
   project_page: "https://ronferens.github.io/hyperpose/"
   github: ronferens/hyperpose
-  arxiv: 2303.026100
+  arxiv: "2303.02610"
   image: hyperpose_teaser.png
   authors:
     - ronferens
