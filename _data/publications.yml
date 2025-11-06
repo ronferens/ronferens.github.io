@@ -81,6 +81,7 @@
   venue: arXiv, 2019
   description: "We review deep learning approaches for camera pose estimation. We describe key methods in the field and identify trends aiming at improving the original deep pose regression solution. We further provide an extensive cross-comparison of existing learning-based pose estimators, together with practical notes on their execution for reproducibility purposes. Finally, we discuss emerging solutions and potential future research directions."
   arxiv: 1907.05272
+  url: "https://arxiv.org/abs/1907.05272"
   image: intro_to_arp.png
   authors:
     - yolishavit
