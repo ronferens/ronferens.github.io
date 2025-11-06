@@ -6,6 +6,7 @@
   github: ronferens/hyperpose
   arxiv: "2303.02610"
   image: hyperpose_teaser.png
+  url: https://openaccess.thecvf.com/content/CVPR2025/html/Ferens_HyperPose_Hypernetwork-Infused_Camera_Pose_Localization_and_an_Extended_Cambridge_Landmarks_CVPR_2025_paper.html
   authors:
     - ronferens
     - yosikeller
@@ -19,6 +20,7 @@
   project_page: "https://ronferens.github.io/c2f-ms-transformer/"
   github: ronferens/c2f-ms-transformer
   arxiv: 2308.11783
+  url: https://ieeexplore.ieee.org/document/10236469
   image: c2f.png
   authors:
     - yolishavit
@@ -34,6 +36,7 @@
   project_page: "https://ronferens.github.io/multi-scene-pose-transformer/"
   github: ronferens/multi-scene-pose-transformer
   arxiv: 2103.11468
+  url: https://openaccess.thecvf.com/content/ICCV2021/html/Shavit_Learning_Multi-Scene_Absolute_Pose_Regression_With_Transformers_ICCV_2021_paper.html
   image: learning_ms.png
   authors:
     - yolishavit
@@ -49,6 +52,7 @@
   project_page: "https://ronferens.github.io/transposenet/"
   github: ronferens/transposenet
   arxiv: 2103.11477
+  url: https://www.sciencedirect.com/science/article/pii/S1077314224000638
   image: transposenet.png
   authors:
     - yolishavit
@@ -58,11 +62,12 @@
     - "Publication in Computer Vision and Image Understanding (CVIU)"
 
 - id: sceenspecificencoder
-  title: "Do We Really Need Scene-specific Pose Encoders? "
+  title: "Do We Really Need Scene-specific Pose Encoders?"
   venue: ICPR, 2020
   description: "We propose that scene-specific pose encoders are not required for pose regression and that encodings trained for visual similarity can be used instead."
   project_page: "https://www.computer.org/csdl/proceedings-article/icpr/2021/09412225/1tmjC49HiFi"
   arxiv: 2012.12014
+  url: https://www.computer.org/csdl/proceedings-article/icpr/2021/09412225/1tmjC49HiFi
   image: do_we_really.png
   authors:
     - yolishavit
